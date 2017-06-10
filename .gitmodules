@@ -1,0 +1,3 @@
+[submodule "wol.py"]
+	path = wol.py
+	url = https://github.com/stevenaubertin/wol.py
