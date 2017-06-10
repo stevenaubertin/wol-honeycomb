@@ -1,4 +1,4 @@
-import wol
+from wol import wol
 import json
 from flask import request
 from app_factory import create_app
